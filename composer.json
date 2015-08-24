@@ -12,8 +12,9 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "laravel/framework": "~4.1",
+        "php": ">=5.5.9",
+        "laravel/framework": "5.1.*",
+        "laravelcollective/html": "5.1.*",
         "doctrine/dbal": "~2.3"
     },
     "require-dev": {
